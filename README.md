@@ -161,8 +161,6 @@ pip install -r requirements.txt
 ## 📸 Screenshots
 
 ```
-<img width="1305" height="717" alt="Screenshot 2026-07-20 144830" src="https://github.com/user-attachments/assets/55c17478-6c7d-4e7d-b4e1-6c1c26e7f38e" />
-```
 <img width="1068" height="477" alt="Screenshot 2026-07-20 144930" src="https://github.com/user-attachments/assets/097a6fbf-bb68-407f-86e0-6ddc7d535a3a" />
 ```
 <img width="930" height="822" alt="image" src="https://github.com/user-attachments/assets/f4eae4fa-dada-4d86-8df7-6f1000569c74" />
