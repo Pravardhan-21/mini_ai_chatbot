@@ -23,7 +23,6 @@ A simple AI chatbot built with **Python** and powered by the **Groq API** using 
 - Flask-CORS
 - python-dotenv
 - Streamlit (optional)
-<img width="1305" height="717" alt="Screenshot 2026-07-20 144830" src="https://github.com/user-attachments/assets/b1c211ca-7672-41f2-81f0-d1ea8aa14479" />
 
 ---
 
@@ -160,9 +159,10 @@ pip install -r requirements.txt
 
 ## 📸 Screenshots
 
-```
+<img width="1305" height="717" alt="Screenshot 2026-07-20 144830" src="https://github.com/user-attachments/assets/b1c211ca-7672-41f2-81f0-d1ea8aa14479" />
+
 <img width="1068" height="477" alt="Screenshot 2026-07-20 144930" src="https://github.com/user-attachments/assets/097a6fbf-bb68-407f-86e0-6ddc7d535a3a" />
-```
+
 <img width="930" height="822" alt="image" src="https://github.com/user-attachments/assets/f4eae4fa-dada-4d86-8df7-6f1000569c74" />
 ---
 
